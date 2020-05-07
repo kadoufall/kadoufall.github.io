@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+.vscode
+
+temp
+
+.DS_Store
+
+
